@@ -1,6 +1,7 @@
 # Olympic Medal Prediction (Machine Learning)
 
 This project predicts the number of Olympic medals a country can win based on the number of athletes and the previous number of medals using a simple machine learning model.
+Objective: This project is beginner level for learning purpose.
 
 ## Project Steps
 
