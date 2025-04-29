@@ -57,6 +57,7 @@ This saved model will be used later for deployment with a web application (Flask
 4. The final output will create a `model.pkl` file.
 5. Open the terminal with exact folder where `app.py` file is located.
 6. Run the `app.py` file by runnning the command `python app.py`.
+7. Open the link given by flask server, eg.,http://127.0.0.1:5000
 
 ---
 
