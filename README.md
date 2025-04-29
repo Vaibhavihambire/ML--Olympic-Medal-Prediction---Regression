@@ -46,7 +46,7 @@ This saved model will be used later for deployment with a web application (Flask
 |--------------|------------------------------------|
 | `olympic_medal_prediction.ipynb` | Jupyter Notebook with full ML model training code. |
 | `model.pkl`  | Saved machine learning model (Linear Regression). |
-
+| `templates`->index.html, result.html | UI interface |
 ---
 
 ## How to Run (ML Part)
@@ -55,6 +55,8 @@ This saved model will be used later for deployment with a web application (Flask
 2. Open the `olympic_medal_prediction.ipynb` file.
 3. Run all cells to understand data preparation, model training, and saving.
 4. The final output will create a `model.pkl` file.
+5. Open the terminal with exact folder where `app.py` file is located.
+6. Run the `app.py` file by runnning the command `python app.py`.
 
 ---
 
